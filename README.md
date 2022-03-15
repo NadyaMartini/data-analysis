@@ -1,5 +1,3 @@
-# data-analysis
-personal projects
 This project was created as a solution at russian hackathon Cup IT 2022 (https://changellenge.com/championships/changellenge-cup-it-2022/?utm_source=email&amp;utm_medium=segment&amp;utm_campaign=auto-partials). 
 Currently this folder includes pdf and html format files. The project is written in python with russian comments. Planning on translating it into english. 
 
