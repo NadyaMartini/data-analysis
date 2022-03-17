@@ -4,4 +4,4 @@ Currently this folder includes pdf and ipynb format files. The project is writte
 This project is an analysis of sales of non-food russian retail shop and share of P&G brand presented in this shop. 
 The datasets given for an analysis are 1. 'purchases' data (with every single check for one year if this check includes at least one P&G product) and 2. 'customers' data (sex,age, etc) 
 
-The cross-sell analysis part of the project would be impossible without this source (https://towardsdatascience.com/affinity-analysis-market-basket-analysis-c8e7fcc61a21).
+The cross-sell analysis part of the project would be impossible without this source: (https://towardsdatascience.com/affinity-analysis-market-basket-analysis-c8e7fcc61a21).
