@@ -1,7 +1,8 @@
 # retail-sales-analysis
 personal projects
 
-Данный проект являтся решением в рамках  Cup IT 2022 (https://changellenge.com/championships/changellenge-cup-it-2022/?utm_source=email&amp;utm_medium=segment&amp;utm_campaign=auto-partials). В текущей папке содержится файлы формата pdf и ipynb. 
+Данный проект являтся решением в рамках хакатона Cup IT 2022 (https://alumni.mgimo.ru/page/adaptive/id120702/promotion/59941/?ssoRedirect=true). 
+В текущей папке содержится файлы формата pdf и ipynb. 
 
 Проект представляет собой анализ продаж компании P&G в не-продуктовых категориях магазина "Магнит косметик". 
 Для анализа представлено два датасета: 
