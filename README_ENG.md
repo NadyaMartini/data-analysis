@@ -10,7 +10,7 @@ Tasks:
 3. Based on the analysis of data and the relationship of goods in the cross-sales matrix, draw conclusions and give recommendations for increasing sales. 
 
 
-general conclusions: 
+General conclusions: 
 1. The gender and age composition of customers who have at least one P&G product on their receipt does not differ from the general gender and age composition of the store customers
 "Magnet Cosmetics. We can also note that the absolute numerical expression of those who buy P&G is not significantly different from the total number of registered in the magnet. This means that an overwhelming number of shoppers registered with Magnet Cosmetics buy or have bought P&G products.
 2. Customers who bought more than 3 P&G products in one check more than 8 times a year bought the same products as customers who made one purchase and never went back to the store: Toilet paper, Household cleaning products, Toothpaste, Wet cat and kitten food, Shampoo. These numbers are virtually the same as the average Magnet store customer. 
