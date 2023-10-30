@@ -17,5 +17,3 @@ General conclusions:
 a) wet and dry animal's food, eatable treats  
 b) paper towels/wipes and toilet paper 
 c) household cleaning products and toilet paper
-
-The cross-sell analysis part of the project would be impossible without this material from Eser Saygın: https://towardsdatascience.com/affinity-analysis-market-basket-analysis-c8e7fcc61a21
